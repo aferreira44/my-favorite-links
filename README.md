@@ -37,6 +37,34 @@
 * [Ars Technica](https://arstechnica.com/)
 * [A List Apart](https://alistapart.com/)
 
+## Podcasts - EN
+
+http://www.productpeople.tv/
+http://www.thisamericanlife.org/
+http://www.npr.org/podcasts/510308/hidden-brain
+http://bikeshed.fm/
+https://changelog.com/
+http://www.npr.org/podcasts/510307/invisibilia
+http://99percentinvisible.org/
+http://fourhourworkweek.com/podcast/
+https://blog.codepen.io/radio/
+http://thisdeveloperslife.com/
+http://giantrobots.fm/
+https://spec.fm/podcasts/does-not-compute
+http://shoptalkshow.com/
+http://dotnetrocks.com/
+http://thedrunkweb.com/
+http://applyfilters.fm/
+http://www.happymondaypodcast.com/
+http://5by5.tv/bigwebshow
+http://www.mistakes.show/
+https://www.sitepoint.com/web/podcast/
+http://thewebahead.net/
+
+## Podcasts - PT
+
+http://devnaestrada.com.br/
+
 ## Questions and Answers
 
 * [Stack Overflow](https://stackoverflow.com/)
