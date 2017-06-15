@@ -5,6 +5,12 @@
 * [FreeCodeCamp](https://www.freecodecamp.com/)
 * [Javascript30](https://javascript30.com/)
 
+## Bitcoin
+
+## Ethereum
+
+* [EtherScan](https://etherscan.io/)
+
 ## Programming Challenges
 
 * [HackerRank](https://www.hackerrank.com)
