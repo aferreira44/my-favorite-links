@@ -7,6 +7,18 @@
 
 ## Bitcoin
 
+### Wallets
+
+[BitGo](http://bitgo.com/wallet)
+
+### Testnet Wallets
+
+[Testnet BitGo](https://test.bitgo.com/wallet)
+
+### Price Charts
+
+[Cryptowatch](https://cryptowat.ch/)
+
 ## Ethereum
 
 * [EtherScan](https://etherscan.io/)
